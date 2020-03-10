@@ -3,6 +3,9 @@ A simple bash CLI helper to invoke a serverless function locally and pipe its ou
 TODOs:
 
 [X] Working write to CSV
+
 [] Removes 'data' leading value
+
 [] Option to pass in an alternative output file name
+
 [] Detects output data type?
