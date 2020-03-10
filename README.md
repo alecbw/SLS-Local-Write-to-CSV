@@ -17,3 +17,5 @@ TODOs:
 [] Option to pass in an alternative output file name
 
 [] Detects output data type?
+
+[] paths into correct directory automatically
